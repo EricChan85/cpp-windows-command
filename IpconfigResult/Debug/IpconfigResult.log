@@ -1,0 +1,16 @@
+﻿Build started 2017/5/19 13:04:12.
+     1>Project "F:\project201701\IpconfigResult\IpconfigResult\IpconfigResult.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\IpconfigResult.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt IpconfigResultDlg.cpp
+         IpconfigResultDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\project201701\IpconfigResult\Debug\IpconfigResult.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\project201701\IpconfigResult\Debug\IpconfigResult.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\project201701\IpconfigResult\Debug\IpconfigResult.lib" /MACHINE:X86 Debug\IpconfigResult.res
+         Debug\IpconfigResult.obj
+         Debug\IpconfigResultDlg.obj
+         Debug\stdafx.obj
+         IpconfigResult.vcxproj -> F:\project201701\IpconfigResult\Debug\IpconfigResult.exe
+     1>Done Building Project "F:\project201701\IpconfigResult\IpconfigResult\IpconfigResult.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
